@@ -1,0 +1,15 @@
+.p-1 {
+  padding: ($spacer * .25) !important;
+}
+
+.pl-0 {
+  padding-left: 0 !important;
+}
+
+.pr-0 {
+  padding-right: 0 !important;
+}
+
+.pb-3 {
+  padding-bottom: ($spacer) !important;
+}
